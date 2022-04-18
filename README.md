@@ -6,13 +6,13 @@
 * 📚 I'm currently studying NodeJS, JavaScript, C#, ASP.NET, SQL.
 * 🚀 My next steps is: AWS, Azure, TypeScript, NoSQL, React.
 
-<div>
+<div style="display: block; margin=auto;">
   <a href="https://github.com/IgorSalvador">
-  <img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=IgorSalvador&show_icons=true&theme=dracula&count_private=true"/>
+  <img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=IgorSalvador&show_icons=true&theme=dracula&count_private=true"/><br>
   <img heigh="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSalvador&theme=dracula&langs_count=16&layout=compact"/>
 </div><br>
   
-<div style="display: inline_block" margin="auto">
+<div style="display: block; margin:auto;">
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
