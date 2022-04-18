@@ -2,8 +2,8 @@
 
 > I'm passionate about technology, I love learning about new technologies and I'm always looking for new challenges looking for the best solution to the problem.
 
-* 💻 I'm Currently working on TWRT as a .NET Developer and Clarizen analyst.
-* 📚 I'm currently studying NodeJS, JavaScript, C#, ASP.NET, SQL.
+* 💻 I'm currently working on TWRT as a .NET Developer and Clarizen analyst.
+* 📚 I'm actually studying NodeJS, JavaScript, C#, ASP.NET, SQL.
 * 🚀 My next steps is: AWS, Azure, TypeScript, NoSQL, React.
 
 <div align="center">
