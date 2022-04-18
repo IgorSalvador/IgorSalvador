@@ -9,7 +9,7 @@
 <div>
   <a href="https://github.com/IgorSalvador">
   <img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=IgorSalvador&show_icons=true&theme=dracula&count_private=true"/>
-  <img heigh="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSalvador&theme=dracula&langs_count=16"/>
+  <img heigh="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSalvador&theme=dracula&langs_count=16&layout=compact"/>
 </div><br>
   
 <div style="display: inline_block" margin="auto">
