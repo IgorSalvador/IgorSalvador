@@ -1,10 +1,12 @@
-### Hi there 👋
+## Hi there, I'm Igor Salvador 👋🖐️🧑🏻‍💻
+
+> I'm passionate about technology, I love learning about new technologies and I'm always looking for new challenges looking for the best solution to the problem.
+
+* 💻 I'm Currently working on TWRT as a .NET Developer and Clarizen analyst.
+* 📚 I'm currently studying NodeJS, JavaScript, C#, ASP.NET, SQL.
+* 🚀 My next steps is: AWS, Azure, TypeScript, NoSQL, React.
 
 <!--
-**IgorSalvador/IgorSalvador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
