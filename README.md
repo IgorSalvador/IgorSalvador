@@ -6,6 +6,19 @@
 * 📚 I'm currently studying NodeJS, JavaScript, C#, ASP.NET, SQL.
 * 🚀 My next steps is: AWS, Azure, TypeScript, NoSQL, React.
 
+<div>
+  <a href="https://beacons.ai/IgorSalvador">
+  <img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=IgorSalvador&theme=dracula&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img heigh="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSalvador&layout=compact&langs_count=16&theme=dracula"/>
+</div><br>
+  
+<div style="display: inline_block" margin="auto">
+  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
