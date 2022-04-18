@@ -7,8 +7,8 @@
 * 🚀 My next steps is: AWS, Azure, TypeScript, NoSQL, React.
 
 <div>
-  <a href="https://beacons.ai/IgorSalvador">
-  <img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=IgorSalvador&theme=dracula&show_icons=true&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/IgorSalvador">
+  <img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=IgorSalvador&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img heigh="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSalvador&layout=compact&langs_count=16&theme=dracula"/>
 </div><br>
   
