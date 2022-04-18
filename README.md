@@ -1,4 +1,4 @@
-## Hi there, I'm Igor Salvador 👋🖐️🧑🏻‍💻
+## Hi there, I'm Igor Salvador 👋🖐️
 
 > I'm passionate about technology, I love learning about new technologies and I'm always looking for new challenges looking for the best solution to the problem.
 
