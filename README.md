@@ -2,9 +2,9 @@
 
 > I'm passionate about technology, I love learning about new technologies and I'm always looking for new challenges looking for the best solution to the problem.
 
-* 💻 I'm currently working on TWRT as a .NET Developer and Clarizen analyst.
-* 📚 I'm actually studying NodeJS, JavaScript, C#, ASP.NET, SQL.
-* 🚀 My next steps is: AWS, Azure, TypeScript, NoSQL, React.
+* 💻 I'm currently working on TWRT as a .NET Developer, I've been working with several projects of various systems, from managing internal information to projects for purchase requests with integration with SAP, I try as my main technologies .NET and Angular for development and SQL Server for database and already for both Azure and Azure environments as Google Cloud.
+* 📚 I'm actually studying TypeScript, APIRestfull, Angular, .NET Core, EFCore.
+* 🚀 My next steps is: AWS, Azure, NoSQL, React.
 
 <div align="center">
   <a href="https://github.com/IgorSalvador">
