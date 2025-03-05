@@ -6,7 +6,7 @@
 * 📚 I'm actually studying TypeScript, APIRestfull, Angular, .NET Core, EFCore and some others.
 * 🚀 My next steps is: AWS, Azure, NoSQL, React.
 
-<div align="center" style="display: flex; flex-direction: column; gap: 25px;">
+<div align="center" style="display: flex; gap: 25px;">
   <div>
     <a href="https://github.com/IgorSalvador">
     <img src="https://github-readme-stats.vercel.app/api?username=IgorSalvador&show_icons=true&theme=dracula"/>
