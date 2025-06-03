@@ -12,7 +12,6 @@ I actively contribute to agile projects and also play a key role in my team’s 
 - API Design & RESTful Principles
 - ASP.NET Core & Entity Framework Core
 - Software Architecture (SOLID, Clean Code, Clean Architecture)
-- DevOps & CI/CD Practices (Git, Pipelines)
 
 ---
 
