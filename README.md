@@ -1,10 +1,37 @@
 ## Hi there, I'm Igor Salvador 👋🖐️
 
-> I'm passionate about technology, I love learning about new technologies and I'm always looking for new challenges looking for the best solution to the problem.
+I'm currently working at TWRT as a Full-Stack .NET Developer (Mid-Level). I have experience delivering and supporting scalable solutions across multiple systems — from internal management tools to purchase request platforms integrated with SAP. My main tech stack includes **.NET (C#)**, **ASP.NET Core**, **Angular**, and **SQL Server**, with hands-on experience deploying in both **Azure** and **Google Cloud Platform** environments.
 
-* 💻 I'm currently working on TWRT as a .NET Developer, I've been working with several projects of various systems, from managing internal information to projects for purchase requests with integration with SAP, I try as my main technologies .NET and Angular for development and SQL Server for database and already for both Azure and Azure environments as Google Cloud.
-* 📚 I'm actually studying TypeScript, APIRestfull, Angular, .NET Core, EFCore and some others.
-* 🚀 My next steps is: AWS, Azure, NoSQL, React.
+I actively contribute to agile projects and also play a key role in my team’s technical development, leading training sessions and managing backlog and delivery as a PM in internal initiatives.
+
+---
+
+## 🧠 Currently Studying
+
+- TypeScript & Modern Angular
+- API Design & RESTful Principles
+- ASP.NET Core & Entity Framework Core
+- Software Architecture (SOLID, Clean Code, Clean Architecture)
+- DevOps & CI/CD Practices (Git, Pipelines)
+
+---
+
+## 📈 Next Steps in My Roadmap
+
+- Cloud Architecture: **AWS**, advanced **Azure**
+- Front-End Expansion: **React** & Web Performance
+- Databases: **NoSQL (MongoDB, Cosmos DB)** & Caching strategies
+- CQRS, MediatR, and DDD practices in .NET
+- Microservices & Containerization (Docker, Kubernetes)
+
+---
+
+## 📑 Certifications
+
+- 🧠 **Google Cloud Digital Leader**
+- 📊 **PSM I - Professional Scrum Master**
+
+---
 
 <div align="center" style="display: flex; gap: 25px;">
   <div>
