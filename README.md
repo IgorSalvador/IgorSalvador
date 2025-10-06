@@ -9,7 +9,8 @@ I actively contribute to agile projects and also play a key role in my team’s 
 ## 🧠 Currently Studying
 
 - TypeScript & Modern Angular
-- API Design & RESTful Principles
+- CQRS, MediatR, and DDD practices in .NET
+- Microservices & Containerization (Docker, Kubernetes)
 - ASP.NET Core & Entity Framework Core
 - Software Architecture (SOLID, Clean Code, Clean Architecture)
 
@@ -20,8 +21,6 @@ I actively contribute to agile projects and also play a key role in my team’s 
 - Cloud Architecture: **AWS**, advanced **Azure**
 - Front-End Expansion: **React** & Web Performance
 - Databases: **NoSQL (MongoDB, Cosmos DB)** & Caching strategies
-- CQRS, MediatR, and DDD practices in .NET
-- Microservices & Containerization (Docker, Kubernetes)
 
 ---
 
