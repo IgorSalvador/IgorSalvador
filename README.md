@@ -86,7 +86,7 @@ Beyond implementation, I actively contribute to technical decisions, architectur
   <a href="mailto:igorsalvador0621@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/igor-henrique-salvador-b915a31b4](https://www.linkedin.com/in/igor-salvador/" target="_blank">
+  <a href="https://www.linkedin.com/in/igor-salvador/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
